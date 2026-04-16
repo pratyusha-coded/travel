@@ -303,7 +303,7 @@
         // ------------------------------------------------------------------
         const firebaseConfig = { apiKey: "YOUR_API_KEY_HERE", authDomain: "YOUR_PROJECT.firebaseapp.com", projectId: "YOUR_PROJECT_ID", storageBucket: "YOUR_PROJECT.appspot.com", messagingSenderId: "YOUR_SENDER_ID", appId: "YOUR_APP_ID" };
         const PEXELS_API_KEY = "sYrWQsbei97eNCRiHS2UT70p8vXDc9aSraJUj1Y4ZdFfJXkdJFMWjQ8a"; // Was hardcoded, replaced for security
-        const GEMINI_API_KEY = "AQ.Ab8RN6KxVTiWcti27nOfZU9Ox-aGZYsNgq8T1RJXa3tD8pFiew"; // Was hardcoded, replaced for security
+        const GEMINI_API_KEY = "AIzaSyDdeIIFyYzYjh7OmYeK_v61TPBAbgdjeFk"; // Was hardcoded, replaced for security
 
         let app, auth, db, currentUser = null;
         let selectedStyle = 'Comfort';
